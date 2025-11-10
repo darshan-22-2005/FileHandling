@@ -1,0 +1,4 @@
+
+What is data science?
+Explain machine learning.
+Define artificial intelligence.
